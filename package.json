@@ -1,0 +1,61 @@
+{
+  "_from": "arron.db",
+  "_inBundle": false,
+  "_integrity": "sha512-Igt1MA/Nhm9QUIximuigIFfKOJNVkXxQsu7a1JRS5yFOQtBm+JJdcqgoDQcUHJkA5F7kwiLTeVx6MxPoKjLjOg==",
+  "_location": "/arron.db",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "arron.db",
+    "name": "arron.db",
+    "escapedName": "arron.db",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/arron.db/-/arron.db",
+  "_shasum": "b6869a5223402cb0167752e5ff1f7e22905b5dc2",
+  "_spec": "arron.db",
+  "_where": "/home/ubuntu/workspace",
+  "author": "Apeiron",
+  "bugs": {
+    "url": "https://github.com/Apeiron1881/arron.db"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "better-sqlite3": "^7.0.1",
+    "express": "^4.17.1",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2",
+    "lodash.sortby": "^4.7.0",
+    "socket.io": "^2.3.0"
+  },
+  "deprecated": false,
+  "description": "%100 Türk Yapımı Mükemmel .db Versiyonu!",
+  "homepage": "https://github.com/Apeiron1881/arron.db",
+  "keywords": [
+    "apeiron"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "arron.db",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apeiron1881/arron.db.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "version": "0.1.0",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "devDependencies": {}
+}
